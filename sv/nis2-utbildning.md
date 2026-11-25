@@ -52,7 +52,7 @@ Vi erbjuder omfattande utbildningsprogram utformade för att uppfylla alla NIS2-
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop&crop=center" alt="Teamträningssession" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop&crop=center" alt="Teamträningssession" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Vi erbjuder omfattande utbildningsprogram utformade för att uppfylla alla NIS2-
 ### Utbildningsleveransmetoder
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=300&fit=crop&crop=center" alt="Moderna utbildningsmetoder" style="width: 100%; max-width: 800px; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=300&fit=crop&crop=center" alt="Moderna utbildningsmetoder" style="width: 100%; max-width: 800px; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 12px; color: #666; margin-top: 8px; font-style: italic;">Flexibla utbildningsalternativ för moderna organisationer</p>
 </div>
 
@@ -163,7 +163,7 @@ För omfattande cybersäkerhetsutbildning och professionell utveckling, utforska
       <a href="https://cal.com/chenist/nis2?overlayCalendar=true" style="display: inline-block; background: #007bff; color: #fff; padding: 12px 30px; border-radius: 6px; text-decoration: none; font-weight: bold; margin: 5px;">📅 Boka Gratis Konsultation</a>
     </div>
     <div style="flex: 0 0 250px; min-width: 250px;">
-      <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=250&h=200&fit=crop&crop=center" alt="Börja din utbildningsresa" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
+      <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=250&h=200&fit=crop&crop=center" alt="Börja din utbildningsresa" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
     </div>
   </div>
 </div>

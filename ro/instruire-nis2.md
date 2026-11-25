@@ -33,7 +33,7 @@ Oferim programe de instruire cuprinzătoare concepute să îndeplinească toate 
 
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400&h=250&fit=crop&crop=center" alt="Întâlnire consiliu executiv" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400&h=250&fit=crop&crop=center" alt="Întâlnire consiliu executiv" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1; min-width: 300px;">
     <h5><strong>Programul de Leadership NIS2</strong></h5>
@@ -61,7 +61,7 @@ Oferim programe de instruire cuprinzătoare concepute să îndeplinească toate 
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop&crop=center" alt="Sesiune de instruire echipă" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop&crop=center" alt="Sesiune de instruire echipă" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Oferim programe de instruire cuprinzătoare concepute să îndeplinească toate 
 
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=400&h=250&fit=crop&crop=center" alt="Instruire tehnică securitate cibernetică" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=400&h=250&fit=crop&crop=center" alt="Instruire tehnică securitate cibernetică" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1; min-width: 300px;">
     <h5><strong>Instruire de Implementare Tehnică NIS2</strong></h5>
@@ -86,7 +86,7 @@ Oferim programe de instruire cuprinzătoare concepute să îndeplinească toate 
 ### Metodele de Livrare a Instruirii
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=300&fit=crop&crop=center" alt="Metode moderne de livrare instruire" style="width: 100%; max-width: 800px; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=300&fit=crop&crop=center" alt="Metode moderne de livrare instruire" style="width: 100%; max-width: 800px; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="font-size: 12px; color: #666; margin-top: 8px; font-style: italic;">Opțiuni flexibile de livrare instruire pentru organizațiile moderne</p>
 </div>
 
@@ -181,7 +181,7 @@ Pentru educație cuprinzătoare în securitate cibernetică și dezvoltare profe
       <a href="https://cal.com/chenist/nis2?overlayCalendar=true" style="display: inline-block; background: #007bff; color: #fff; padding: 12px 30px; border-radius: 6px; text-decoration: none; font-weight: bold; margin: 5px;">📅 Programare Consultație Gratuită</a>
     </div>
     <div style="flex: 0 0 250px; min-width: 250px;">
-      <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=250&h=200&fit=crop&crop=center" alt="Începeți călătoria de instruire" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
+      <img loading="lazy" decoding="async" src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=250&h=200&fit=crop&crop=center" alt="Începeți călătoria de instruire" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
     </div>
   </div>
 </div>
