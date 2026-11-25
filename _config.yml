@@ -2,6 +2,8 @@
 title: chen.ist
 subtitle: NIS2 Compliance Services
 email: nis2@chen.ist
+lang: en
+locale: en_US
 description: Expert NIS2 Directive compliance and cybersecurity governance services<br /> for essential and important entities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nis2.chen.ist" # the base hostname & protocol for your site
@@ -33,7 +35,16 @@ sass:
   style: compressed
 
 exclude:
+- Gemfile
+- Gemfile.lock
+- vendor
+- bin
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+# loaded by GitHub Pages (which ignores the Gemfile) and by local builds alike
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
